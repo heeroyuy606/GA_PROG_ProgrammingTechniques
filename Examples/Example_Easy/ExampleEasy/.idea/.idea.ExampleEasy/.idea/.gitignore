@@ -1,6 +1,10 @@
 ﻿# Default ignored files
 /shelf/
+/aws.xml
+/encodings.xml
+/indexLayout.xml
 /workspace.xml
+/vcs.xml
 # Rider ignored files
 /.idea.ExampleEasy.iml
 /projectSettingsUpdater.xml
