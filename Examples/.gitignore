@@ -1,0 +1,9 @@
+﻿# bin/obj
+/Example_Easy/ExampleEasy/bin
+/Example_Easy/ExampleEasy/obj
+
+#vs folders
+/Example_Easy/.vs
+
+#rider folders
+/Example_Easy/.idea
